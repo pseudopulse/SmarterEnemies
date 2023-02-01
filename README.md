@@ -1,2 +1,8 @@
-# r2template
-This repository is a template-repository that contains the basic structure for a risk of rain 2 mod. Names are left empty in the solution, manifest, and csproj files for the user to fill out
+# Smarter Enemies
+lmao get ratio'd by smarter enemies, better move quickly if you wanna actually win
+
+list of things enemies can do now:
+- pick up items
+- open chests
+- print items
+- activate the teleporter
