@@ -1,0 +1,10 @@
+{
+	"name": "SmarterEnemies",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Enemies learned how to open chests. Get ratio'd",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
